@@ -322,6 +322,13 @@ const questions = [
       { text: "Mathew st", correct: true },
     ],
   },
+  {
+    question: "What is the street name of The liverpool Wheel?",
+    answers: [
+      { text: "Keel Wharf", correct: false },
+      { text: "Mathew st", correct: true },
+    ],
+  },
 ];
 
 const questionElement = document.getElementById("question");
