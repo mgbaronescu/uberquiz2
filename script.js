@@ -151,7 +151,7 @@ const questions = [
     question: "What is the street name of The Casbah Coffe Club?",
     answers: [
       { text: "Hope st,Liverpool", correct: false },
-      { text: "8 Hayman's Green,Liverpool", correct: true },
+      { text: "Hayman's Green,Liverpool", correct: true },
     ],
   },
   {
@@ -227,7 +227,7 @@ const questions = [
   {
     question: "What is the street name of The Home of Paul McCartney?",
     answers: [
-      { text: "20 Forthlin Road", correct: true },
+      { text: "Forthlin Road", correct: true },
       { text: "Mathew st", correct: false },
     ],
   },
@@ -346,14 +346,14 @@ const questions = [
   {
     question: "What is the street name of The Cowne Plaza City Hotel?",
     answers: [
-      { text: "2 St Nicholas Place,Liverpool", correct: true },
-      { text: "8 Church St,Liverpool", correct: false },
+      { text: "St Nicholas Place,Liverpool", correct: true },
+      { text: "Church St,Liverpool", correct: false },
     ],
   },
   {
     question: "What is the street name of The Hilton Hotel?",
     answers: [
-      { text: "3 Thomas Steers Way,Liverpool", correct: true },
+      { text: "Thomas Steers Way,Liverpool", correct: true },
       { text: "Lane Road, Liverpool", correct: false },
     ],
   },
@@ -361,14 +361,14 @@ const questions = [
     question: "What is the street name of The Malmaison Hotel?",
     answers: [
       { text: "Jesica st,Liverpool", correct: false },
-      { text: "7 Wiliam Jessop Way,Liverpool", correct: true },
+      { text: "Wiliam Jessop Way,Liverpool", correct: true },
     ],
   },
   {
     question: "What is the street name of The Radisson Blu Hotel?",
     answers: [
-      { text: "2 Dawson Road,Liverpool", correct: false },
-      { text: "107 Old Hall St,Liverpool", correct: true },
+      { text: "Dawson Road,Liverpool", correct: false },
+      { text: "Old Hall St,Liverpool", correct: true },
     ],
   },
   {
@@ -381,8 +381,8 @@ const questions = [
   {
     question: "What is the street name of The Hallmark Hotel Sefton Park?",
     answers: [
-      { text: "17, Aigburth Drive,Liverpool", correct: true },
-      { text: "10 Aintree Hall,Liverpool", correct: false },
+      { text: "Aigburth Drive,Liverpool", correct: true },
+      { text: "Aintree Hall,Liverpool", correct: false },
     ],
   },
   {
@@ -402,22 +402,22 @@ const questions = [
   {
     question: "What is the street name of The Jury's Inn?",
     answers: [
-      { text: "No.31 Keel Wharf ,Liverpool", correct: true },
-      { text: "22 Faruih St,Liverpool", correct: false },
+      { text: "Keel Wharf ,Liverpool", correct: true },
+      { text: "Faruih St,Liverpool", correct: false },
     ],
   },
   {
     question: "What is the street name of The Hotel Indigo?",
     answers: [
-      { text: "2 Saragd ,Liverpool", correct: false },
-      { text: "10 Chapel St,Liverpool", correct: true },
+      { text: "Saragd ,Liverpool", correct: false },
+      { text: "Chapel St,Liverpool", correct: true },
     ],
   },
   {
     question: "What is the street name of The Days Inn (Hotel Heeton)?",
     answers: [
       { text: "James st,Liverpool", correct: true },
-      { text: "4 George st,Liverpool", correct: false },
+      { text: "George st,Liverpool", correct: false },
     ],
   },
   {
@@ -444,8 +444,8 @@ const questions = [
   {
     question: "What is the street name of The Premier Inn City Centre?",
     answers: [
-      { text: "48 Hanover St,,Liverpool", correct: true },
-      { text: "37 Vernon St,Liverpool", correct: false },
+      { text: "Hanover St,,Liverpool", correct: true },
+      { text: "Vernon St,Liverpool", correct: false },
     ],
   },
   {
@@ -486,22 +486,22 @@ const questions = [
   {
     question: "What is the street name of The Aloft Hotel ?",
     answers: [
-      { text: "1 North John St,Liverpool", correct: true },
-      { text: "6 Duke st,Liverpool", correct: false },
+      { text: "North John St,Liverpool", correct: true },
+      { text: "Duke st,Liverpool", correct: false },
     ],
   },
   {
     question: "What is the street name of The Mountford Hotel?",
     answers: [
       { text: "Jesica st,Liverpool", correct: false },
-      { text: "52-54 Croxteth Road,Liverpool", correct: true },
+      { text: "Croxteth Road,Liverpool", correct: true },
     ],
   },
   {
     question: "What is the street name of The Hampton By Hilton City?",
     answers: [
       { text: "Queen dock st,Liverpool", correct: false },
-      { text: "Kings Dock Mill, 7 Hurst St ,Liverpool", correct: true },
+      { text: "Kings Dock Mill, Hurst St ,Liverpool", correct: true },
     ],
   },
   {
@@ -521,7 +521,7 @@ const questions = [
   {
     question: "What is the street name of The Double Tree By Hilton?",
     answers: [
-      { text: "6 Sir Thomas St,Liverpool", correct: true },
+      { text: "Sir Thomas St,Liverpool", correct: true },
       { text: "Victoria St,Liverpool", correct: false },
     ],
   },
@@ -536,13 +536,13 @@ const questions = [
     question: "What is the street name of TheHatters Hostel?",
     answers: [
       { text: "Jesica st,Liverpool", correct: false },
-      { text: "50-60 Mount Pleasant,Liverpool ", correct: true },
+      { text: "Mount Pleasant,Liverpool ", correct: true },
     ],
   },
   {
     question: "What is the street name of The Travelodge Stoneycroft?",
     answers: [
-      { text: "502 Queens Dt, Stoneycroft,Liverpool", correct: true },
+      { text: "Queens Dt, Stoneycroft,Liverpool", correct: true },
       { text: "Lime St,Liverpool", correct: false },
     ],
   },
@@ -550,13 +550,13 @@ const questions = [
     question: "What is the street name of The Hope St Hotel?",
     answers: [
       { text: "Ledge Ln,Liverpool", correct: false },
-      { text: "40 Hope St ,Liverpool", correct: true },
+      { text: "Hope St ,Liverpool", correct: true },
     ],
   },
   {
     question: "What is the street name of The Travelodge(JLA)?",
     answers: [
-      { text: "1 Speke HAll Avenue,Liverpool", correct: true },
+      { text: "Speke HAll Avenue,Liverpool", correct: true },
       { text: "Victoria st,Liverpool", correct: false },
     ],
   },
@@ -570,43 +570,43 @@ const questions = [
   {
     question: "What is the street name of The Beech Mount Hotel?",
     answers: [
-      { text: "1-3 Beech Mount,Liverpool", correct: true },
+      { text: "Beech Mount,Liverpool", correct: true },
       { text: "Keel Wharf", correct: false },
     ],
   },
   {
     question: "What is the street name of The Mercure Hotel?",
     answers: [
-      { text: "2 Whitley Road,Liverpool", correct: true },
+      { text: "Whitley Road,Liverpool", correct: true },
       { text: "Thomas st,Liverpool", correct: false },
     ],
   },
   {
     question: "What is the street name of TheRichmond Hotel?",
     answers: [
-      { text: " 43 Hall Avenue,Liverpool", correct: false },
-      { text: "24 Halton Garden,Liverpool", correct: true },
+      { text: " Hall Avenue,Liverpool", correct: false },
+      { text: "Halton Garden,Liverpool", correct: true },
     ],
   },
   {
     question: "What is the street name of The Shankley Hotel?",
     answers: [
-      { text: " 132 Jesica st,Liverpool", correct: false },
-      { text: "60 Victoria St,Liverpool", correct: true },
+      { text: "Jesica st,Liverpool", correct: false },
+      { text: "Victoria St,Liverpool", correct: true },
     ],
   },
   {
     question: "What is the street name of The Staybridge Suites?",
     answers: [
-      { text: "7 Queen st,Liverpool", correct: false },
-      { text: " 21 Keel Wharf,Liverpool", correct: true },
+      { text: "Queen st,Liverpool", correct: false },
+      { text: " Keel Wharf,Liverpool", correct: true },
     ],
   },
   {
     question: "What is the street name of The Liverpool One Premier Inn?",
     answers: [
-      { text: "48 Hanover St,Liverpool", correct: true },
-      { text: "54 Victoria st,Liverpool", correct: false },
+      { text: "Hanover St,Liverpool", correct: true },
+      { text: " Victoria st,Liverpool", correct: false },
     ],
   },
   {
@@ -633,22 +633,22 @@ const questions = [
   {
     question: "What is the street name of The Travelodge Central?",
     answers: [
-      { text: "25 Old HAymarket,Liverpool", correct: true },
+      { text: "Old HAymarket,Liverpool", correct: true },
       { text: "Ranelaght,Liverpool", correct: false },
     ],
   },
   {
     question: "What is the street name of The Ibis Hotel?",
     answers: [
-      { text: "27 Wapping ,Liverpool", correct: true },
+      { text: "Wapping ,Liverpool", correct: true },
       { text: "Vernon St,Liverpool", correct: false },
     ],
   },
   {
     question: "What is the street name of The Picture House Apartments?",
     answers: [
-      { text: "67 Fenn Lane,Liverpool", correct: false },
-      { text: "322 Scotland Road,Liverpool", correct: true },
+      { text: " Fenn Lane,Liverpool", correct: false },
+      { text: "Scotland Road,Liverpool", correct: true },
     ],
   },
   {
@@ -668,8 +668,8 @@ const questions = [
   {
     question: "What is the street name of The Resident Hotel(Nadler)?",
     answers: [
-      { text: "14 Hunter St,Liverpool", correct: false },
-      { text: "29 Seel St,Liverpool", correct: true },
+      { text: " Hunter St,Liverpool", correct: false },
+      { text: " Seel St,Liverpool", correct: true },
     ],
   },
   {
@@ -704,14 +704,14 @@ const questions = [
     question: "What is the street name of The Cavern Club?",
     answers: [
       { text: "Leceer st,Liverpool", correct: false },
-      { text: "10 Mathew St,Liverpool", correct: true },
+      { text: "Mathew St,Liverpool", correct: true },
     ],
   },
   {
     question: "What is the street name of TheGino D'Acampo Restaurant?",
     answers: [
       { text: "Jesica st,Liverpool", correct: false },
-      { text: "1 Castle St,Liverpool", correct: true },
+      { text: "Castle St,Liverpool", correct: true },
     ],
   },
   {
@@ -724,8 +724,8 @@ const questions = [
   {
     question: "What is the street name of The Panoramic Restaurant?",
     answers: [
-      { text: "34 Floor, West Tower, Brook St,Liverpool", correct: true },
-      { text: " 21 Great Floor,Liverpool", correct: false },
+      { text: "Floor, West Tower, Brook St,Liverpool", correct: true },
+      { text: "  Great Floor,Liverpool", correct: false },
     ],
   },
   {
@@ -767,21 +767,21 @@ const questions = [
     question: "What is the street name of The San Carlo Restaurant?",
     answers: [
       { text: "Hardman St,Liverpool", correct: false },
-      { text: "41 Castle St,Liverpool", correct: true },
+      { text: "Castle St,Liverpool", correct: true },
     ],
   },
   {
     question: "What is the street name of The Viva Briazil REstaurant?",
     answers: [
-      { text: "21 Leece st,Liverpool", correct: false },
-      { text: "36 Castle St,Liverpool", correct: true },
+      { text: " Leece st,Liverpool", correct: false },
+      { text: " Castle St,Liverpool", correct: true },
     ],
   },
   {
     question: "What is the street name of The Sapporo Teppanyaki Restaurant?",
     answers: [
-      { text: "134 Duke St,Liverpool", correct: true },
-      { text: "465 William St,Liverpool", correct: false },
+      { text: " Duke St,Liverpool", correct: true },
+      { text: " William St,Liverpool", correct: false },
     ],
   },
   {
@@ -794,29 +794,29 @@ const questions = [
   {
     question: "What is the street name of The Hannah's Bar?",
     answers: [
-      { text: "2 Leece St,Liverpool", correct: true },
-      { text: "4 Castle St,Liverpool", correct: false },
+      { text: " Leece St,Liverpool", correct: true },
+      { text: " Castle St,Liverpool", correct: false },
     ],
   },
   {
     question: "What is the street name of The Baltic Fleet Ph?",
     answers: [
       { text: "Duke st,Liverpool", correct: false },
-      { text: "33a Wapping,Liverpool", correct: true },
+      { text: " Wapping,Liverpool", correct: true },
     ],
   },
   {
     question: "What is the street name of The Ship And Mitre?",
     answers: [
-      { text: "133 Dale st,Liverpool", correct: true },
+      { text: " Dale st,Liverpool", correct: true },
       { text: "Mint hale,Liverpool", correct: false },
     ],
   },
   {
     question: "What is the street name of The Fly in the Loaf?",
     answers: [
-      { text: " 32 Resica st,Liverpool", correct: false },
-      { text: "13 Hardman St,Liverpool", correct: true },
+      { text: "  Resica st,Liverpool", correct: false },
+      { text: "Hardman St,Liverpool", correct: true },
     ],
   },
   {
@@ -844,13 +844,13 @@ const questions = [
     question: "What is the street name of The Slaughter House PH?",
     answers: [
       { text: "Water Ford,Liverpool", correct: false },
-      { text: "13-15 Fenwick St,Liverpool", correct: true },
+      { text: " Fenwick St,Liverpool", correct: true },
     ],
   },
   {
     question: "What is the street name of The Arkles?",
     answers: [
-      { text: "77 Anfield Road,Liverpool", correct: true },
+      { text: " Anfield Road,Liverpool", correct: true },
       { text: "Ledge Lane,Liverpool", correct: false },
     ],
   },
@@ -872,13 +872,13 @@ const questions = [
     question: "What is the street name of The Epstein Theatre?",
     answers: [
       { text: "Jesica st,Liverpool", correct: false },
-      { text: "85 Hanover St,Liverpool", correct: true },
+      { text: " Hanover St,Liverpool", correct: true },
     ],
   },
   {
     question: "What is the street name of The FACT Cinema?",
     answers: [
-      { text: "88 Wood St,Liverpool", correct: true },
+      { text: " Wood St,Liverpool", correct: true },
       { text: "Edge Lane,Liverpool", correct: false },
     ],
   },
@@ -886,7 +886,7 @@ const questions = [
     question: "What is the street name of The Grosvenor Casino(Leo's)?",
     answers: [
       { text: "Duke St,Liverpool", correct: false },
-      { text: "44 Chaloner St", correct: true },
+      { text: " Chaloner St", correct: true },
     ],
   },
   {
@@ -934,7 +934,7 @@ const questions = [
   {
     question: "What is the street name of The Florist PH?",
     answers: [
-      { text: "24 Hardman St,Liverpool", correct: true },
+      { text: " Hardman St,Liverpool", correct: true },
       { text: "Keel Handy,Liverpool", correct: false },
     ],
   },
@@ -957,7 +957,7 @@ const questions = [
       "What is the street name of The London Carriage Works Restaurant?",
     answers: [
       { text: "Luke St,Liverpool", correct: false },
-      { text: "40 Hope St,Liverpool", correct: true },
+      { text: " Hope St,Liverpool", correct: true },
     ],
   },
   {
@@ -1020,7 +1020,7 @@ const questions = [
     question: "What is the street name of The Everyman Theatre?",
     answers: [
       { text: "Henry Drive,Liverpool", correct: false },
-      { text: "5-11 Hope St,Liverpool", correct: true },
+      { text: " Hope St,Liverpool", correct: true },
     ],
   },
   {
@@ -1096,7 +1096,7 @@ const questions = [
   {
     question: "What is the street name of The Hope School?",
     answers: [
-      { text: "251 Hartsbourne Ave , Belle Vale", correct: true },
+      { text: " Hartsbourne Ave , Belle Vale", correct: true },
       { text: "Millan Dock,Liverpool", correct: false },
     ],
   },
@@ -1131,7 +1131,7 @@ const questions = [
   {
     question: "What is the street name of The Arch Bishop Blanch School?",
     answers: [
-      { text: "80 Earle Road,Liverpool", correct: true },
+      { text: " Earle Road,Liverpool", correct: true },
       { text: "Mountain Lane St,Liverpool", correct: false },
     ],
   },
@@ -1139,13 +1139,13 @@ const questions = [
     question: "What is the street name of The  Liverpool City Walk In Centre?",
     answers: [
       { text: "William  St,Liverpool", correct: false },
-      { text: "6 David Lewis St,Liverpool", correct: true },
+      { text: " David Lewis St,Liverpool", correct: true },
     ],
   },
   {
     question: "What is the street name of The Everton Walk In Centre?",
     answers: [
-      { text: "6 David Lewis St,Liverpool", correct: true },
+      { text: " David Lewis St,Liverpool", correct: true },
       { text: "Illiad St,Liverpool", correct: false },
     ],
   },
@@ -1188,7 +1188,7 @@ const questions = [
     question:
       "What is the street name of The  Liverpool Uni Guild Of Students ?",
     answers: [
-      { text: "160 Mount Pleasant,Liverpool", correct: true },
+      { text: " Mount Pleasant,Liverpool", correct: true },
       { text: "King's Lane,Liverpool", correct: false },
     ],
   },
@@ -1301,7 +1301,7 @@ const questions = [
     question: "What is the street name of The HMP Liverpool?",
     answers: [
       { text: "Bath Road,Liverpool", correct: false },
-      { text: "68 Hornby Road,Liverpool", correct: true },
+      { text: "Hornby Road,Liverpool", correct: true },
     ],
   },
   {
